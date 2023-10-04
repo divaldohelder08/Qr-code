@@ -47,7 +47,7 @@ Para a elaboração foi utilizado:
  - css
  - Javascript
 
-## 💡Por favor deixe o seu like
+## Por favor deixe uma 🌟
 
 <div align="center">
   <br>
