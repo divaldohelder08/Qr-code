@@ -9,19 +9,36 @@ Bem-vindo ao repositório do meu projeto. Não esqueça de deixar o seu like!
 ## Objectivo
 Este é um componente de gerador de QR Code desenvolvido para ser usado em projetos React. Ele permite que os usuários insiram um conteúdo, como um URL, e gere um código QR correspondente. O componente é responsivo e adapta a exibição de acordo com o tamanho da tela.
 
-## Instalação
+## Recursos Principais
 
-## Uso
-
-Para usar o componente Gerador de QR Code em seu projeto React, siga estas etapas:
-
-1. Instale o componente como uma dependência:
-
-   ```bash
-   npm install meu-componente-qr-code
+- Gere códigos QR a partir de qualquer URL ou texto personalizado.
+- Interface de usuário intuitiva e amigável.
+- Totalmente responsivo, se adapta a diferentes tamanhos de tela.
+- Altamente personalizável com opções de estilo e tamanho.
 
 
-O intuito deste projeto foi gerar a partir da url enviada pelo usuário o seu respectivo QR Code. 
+## Pré-requisitos
+
+
+Certifique-se de que seu projeto React atenda aos seguintes pré-requisitos para usar o componente Gerador de QR Code:
+
+
+Os pré-requisitos mencionados em sua documentação dependem do contexto específico do seu projeto e do componente Gerador de QR Code. No entanto, geralmente, os pré-requisitos podem incluir o seguinte:
+
+- **Node.js**: Certifique-se que tens o node instalado na sua maquina
+```Blame
+node -v #v20.7.0
+```
+   Se ñ tens ele instalado
+   [nodejs](https://nodejs.org/en)
+
+- **npm ou Yarn**: Certifique-se que tens um dos dois instalado na sua maquina, o npm já vem com o node
+```Blame
+npm -v
+   # 10.1.0
+yarn -v
+   # 1.22.19
+```
 
 Para a elaboração foi utilizado:
 
@@ -30,7 +47,7 @@ Para a elaboração foi utilizado:
  - css
  - Javascript
 
-## Por favor deixe o seu like
+## 💡Por favor deixe o seu like
 
 <div align="center">
   <br>
