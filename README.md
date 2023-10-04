@@ -3,10 +3,23 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+This+Is+a+final+school+project;Wy+study+at+Makarenko,+'IPIL';Wy+are+from+África+Angola+Luanda;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# 🧶 Geradir de QR...
+Bem-vindo ao repositório do meu projeto. Não esqueça de deixar o seu like!
 
+## Objectivo
+Este é um componente de gerador de QR Code desenvolvido para ser usado em projetos React. Ele permite que os usuários insiram um conteúdo, como um URL, e gere um código QR correspondente. O componente é responsivo e adapta a exibição de acordo com o tamanho da tela.
 
-# 🧶 Geradir de QR
+## Instalação
+
+## Uso
+
+Para usar o componente Gerador de QR Code em seu projeto React, siga estas etapas:
+
+1. Instale o componente como uma dependência:
+
+   ```bash
+   npm install meu-componente-qr-code
+
 
 O intuito deste projeto foi gerar a partir da url enviada pelo usuário o seu respectivo QR Code. 
 
@@ -17,10 +30,7 @@ Para a elaboração foi utilizado:
  - css
  - Javascript
 
-
-<div align="center" >
-## refactoring-User
-</div>
+## Por favor deixe o seu like
 
 <div align="center">
   <br>
