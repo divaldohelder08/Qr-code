@@ -11,15 +11,13 @@ Este é um componente de gerador de QR Code desenvolvido para ser usado em proje
 
 ## Recursos Principais
 
-- Gere códigos QR a partir de qualquer URL ou texto personalizado.
-- Interface de usuário intuitiva e amigável.
-- Totalmente responsivo, se adapta a diferentes tamanhos de tela.
-- Altamente personalizável com opções de estilo e tamanho.
+- Gere códigos QR a partir de qualquer URL ou texto personalizado;
+- Interface de usuário intuitiva e amigável;
+- Totalmente responsivo, se adapta a diferentes tamanhos de tela;
+- Altamente personalizável com opções de estilo e tamanho;
 
 
 ## Pré-requisitos
-
-
 Certifique-se de que seu projeto React atenda aos seguintes pré-requisitos para usar o componente Gerador de QR Code:
 
 
